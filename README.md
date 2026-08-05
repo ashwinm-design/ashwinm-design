@@ -9,7 +9,7 @@
 
 <!-- Phase 4: Social Badges -->
 <br/><br/>
-<a href="https://www.linkedin.com/in/ashwin-manoj-6840a23a2">
+<a href="https://www.linkedin.com/in/ashwinmanojm">
  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
